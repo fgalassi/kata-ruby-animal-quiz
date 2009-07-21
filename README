@@ -1,0 +1,8 @@
+test requirements:
+test/unit, flexmock, rake
+
+run test:
+rake test
+
+run app:
+src/animalquiz.rb
